@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "files.associations": {
+    "*.svg": "xml"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
