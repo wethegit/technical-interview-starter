@@ -19,6 +19,7 @@
   "homepage": "https://github.com/wethegit/technical-interview-fe-dev#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "~2.5.0",
+    "@parcel/transformer-svg-react": "~2.6.2",
     "parcel": "~2.5.0"
   },
   "dependencies": {
