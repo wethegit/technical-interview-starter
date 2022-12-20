@@ -1,4 +1,4 @@
-// import sampleImage from "../assets/2x1_PMCSGalleryOpeningStory_v01-01.jpg";
+// import sampleImage from "../assets/icon-arrow-left.svg";
 
 export function App() {
   return (
