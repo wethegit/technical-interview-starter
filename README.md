@@ -20,7 +20,7 @@ Together during the interview we will create a responsive image-switcher/gallery
 - captions - captions should be updated from picture to picture;
 - animation - the gallery should animate where applicable;
 - accessibility - this should be keyboard-navigable (tabbable), and built with any other a11y best practices in mind;
-- touch(extra!) - the user should be able to drag both carousels back and forward;
+- touch(optional) - the user should be able to drag both carousels back and forward;
 
 ## Visual reference
 
