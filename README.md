@@ -14,13 +14,13 @@ Start the local server with the project running: `npm start`
 
 ## The ask
 
-Create a responsive image-switcher/gallery, using the [reference image](#visual-reference) below. Strive to include the following:
+Together during the interview we will create a responsive image-switcher/gallery, using the [reference image](#visual-reference) below. Strive to include the following:
 
 - responsive;
 - captions - captions should be updated from picture to picture;
-- touch - the user should be able to drag the thumbnails back and forward;
 - animation - the gallery should animate where applicable;
 - accessibility - this should be keyboard-navigable (tabbable), and built with any other a11y best practices in mind;
+- touch(optional) - the user should be able to drag both carousels back and forward;
 
 ## Visual reference
 
